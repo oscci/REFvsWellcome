@@ -1,122 +1,122 @@
-Category,N4,N3,N2,N1,N0,tot,Wellcome,shortname
-Aberystwyth University,989.961,3700.067,2000.985,84.252,245.735,7659.911,0,
-Anglia Ruskin University,213.43,1864.38,922.345,67.52,157.325,2718.1,0,
-Aston University,1840.32,3419.36,369.2,0,51.12,10780.64,0,
-Bangor University,1451.1,2649.22,938.7,77.28,63.7,8453.62,0,
-Birkbeck College,1871.635,2145.665,768.465,125.355,43.88,9632.205,12,Birkbeck
-Birmingham City University,24.2,642.51,370.26,99.22,73.81,739.31,0,
-Bournemouth University,482.8,1523.36,1221.98,158.36,53.5,3454.56,0,
-Brunel University London,1113.55,3463.95,3002.81,720.25,49.44,7918.15,0,
-Buckinghamshire New University,22.01,244.24,244.24,132.77,66.74,332.28,0,
-Canterbury Christ Church University,165.66,1115.42,1271.1,87.82,0,1778.06,0,
-Cardiff Metropolitan University,133.2,800.4,266.4,0,0,1333.2,0,
-Cardiff University,8886.851,15225.827,3702.209,242.117,170.996,50773.231,44,Cardiff
-City University London,1399.24,5345.6,2235.2,406.92,173.04,10942.56,0,
-Coventry University,494.48,1691.84,836.48,137.2,0,3669.76,0,
-Cranfield University,126.24,1364.97,1088.82,49.97,0,1869.93,0,
-De Montfort University,251.2,1234.02,1460.1,166.42,28.26,2238.82,0,
-Edge Hill University,320.23,833.67,978.5,197.6,0,2114.59,0,
-Edinburgh Napier University,313.02,1305.36,548.34,0,53.28,2557.44,0,
-Glasgow Caledonian University,881.57,2768.75,704.37,26.58,48.73,6295.03,0,
-Glyndŵr University,19.74,100.58,539.56,280.12,0,179.54,0,
-Goldsmiths' College,609.39,1794.87,809.19,29.97,86.58,4232.43,0,
-Harper Adams University,117.3,804.1,778.6,0,0,1273.3,0,
-Heriot-Watt University,235.49,821.84,1050.18,76.03,26.46,1763.8,0,
-Imperial College London,16474.013,27183.92,8659.657,615.569,332.841,93079.972,162,Imperial
-Institute of Cancer Research,3635.828,5359.133,1196.586,27.636,89.817,19902.445,0,
-Keele University,1509.118,4278.112,1968.014,199.98,52.776,10314.584,0,
-King's College London,18085.628,37148.2,9671.903,470.307,651.962,109490.712,113,KCL
-Kingston University,324.466,1536.142,716.284,121,24.108,2834.006,0,
-Lancaster University,2301.25,4629.31,1556.73,90.16,32.55,13834.31,0,
-Leeds Beckett University,53.66,682.2,1423.22,1154.02,146.9,896.84,0,
-Liverpool Hope University,25.92,333.72,617.76,102.6,0,437.4,0,
-Liverpool John Moores University,604.67,1934.81,1727.77,121.7,31.05,4353.49,0,
-Liverpool School of Tropical Medicine,643.22,1878.14,936.28,40.66,21.7,4451.02,30,LivSchTropical
-London Metropolitan University,160.6,536.8,348.7,53.9,0,1179.2,0,
-London School of Hygiene & Tropical Medicine,6191.772,15448.028,8953.932,592.838,179.43,40215.116,78,LSHTM
-London South Bank University,165.36,1134.38,972.38,167.88,0,1795.82,0,
-Manchester Metropolitan University,564.88,3229.64,2106.02,128.94,110.52,5489.16,0,
-Middlesex University,249.43,1374.19,1090.2,52.5,23.68,2371.91,0,
-Newcastle University,6757.979,15809.05,6926.168,446.542,153.261,42840.966,45,Ncl
-Newman University,NA,NA,NA,NA,NA,NA,0,
-Nottingham Trent University,981.08,2261.26,1258.8,28.34,30.52,6185.58,0,
-Open University,375.7,924.8,374,25.5,0,2427.6,0,
-Oxford Brookes University,626.22,2343.27,1909.32,140.59,30.6,4848.15,0,
-Queen Margaret University Edinburgh,56.58,439.5,843.84,80.08,0,665.82,0,
-Queen Mary University of London,6166.871,12848.76,2810.097,86.498,118.774,37516.244,20,QMUL
-Queen's University Belfast,3629.491,10885.331,6567.408,106.85,163.92,25403.295,13,QUB
-Robert Gordon University,162,611.55,540,36.45,0,1259.55,0,
-Roehampton University,368.76,1255.72,755.04,60.48,0,2730.76,0,
-Royal Agricultural University,51.6,75.6,511.2,408,153.6,282,0,
-"Royal Holloway, University of London",1408.875,2496.375,759.75,60,0,8131.875,0,
-Royal Veterinary College,1800.726,5722.997,2504.458,320.819,0,12925.901,0,
-Sheffield Hallam University,519.935,1824.895,1459.69,90.48,0,3904.635,0,
-SRUC,1015.449,2742.286,1830.103,120.477,28.685,6804.082,0,
-"St.George's, University of London",1301.018,2661.345,1550.409,54.228,0,7865.417,0,
-Staffordshire University,33.12,262.2,789.36,229.08,66.24,394.68,0,
-Swansea University,2321.22,3872.73,1091.47,77.64,26.94,13157.61,0,
-Teesside University,120,787.2,620.8,72,0,1267.2,0,
-The University of West London,116.13,467.46,536.55,349.86,0,931.98,0,
-University College London,29095.675,55294.264,27168.556,2435.464,1008.041,171676.964,320,UCL
-University of Aberdeen,4926.4,12329.104,5672.542,132.026,161.928,32034.704,18,Aberdeen
-University of Abertay Dundee,94.723,583.123,1036.003,248.351,176.8,962.015,0,
-University of Bath,2669.27,4141.7,975.43,54.2,29.4,14818.78,0,
-University of Bedfordshire,522.9,1279.86,520.41,119.52,47.31,3371.46,0,
-University of Birmingham,7199.15,17037.755,5885.99,331.025,381.08,45834.355,23,Bham
-University of Bolton,22.26,132.5,331.25,43.99,0,221.54,0,
-University of Bradford,1245.2,2631.2,497.2,0,26.4,7612,0,
-University of Brighton,297,1336.5,553.5,20.25,42.75,2524.5,0,
-University of Bristol,7535.888,17994.13,8033.9,413.994,289.088,48137.682,44,Bristol
-University of Cambridge,21386.389,25498.464,7667.314,355.728,522.105,111044.02,351,Cambridge
-University of Central Lancashire,579.292,3083.624,2493.616,455.392,104.076,5400.792,0,
-University of Chester,52.1,1379.68,1473.36,686.56,48.3,1588.08,0,
-University of Chichester,0,284.4,283.8,31.8,0,284.4,0,
-University of Cumbria,NA,NA,NA,NA,NA,NA,0,
-University of Derby,54.72,539.76,1455.6,537.12,52.8,758.64,0,
-University of Dundee,4705.45,9362.27,3140.85,329.94,81.49,28184.07,95,Dundee
-University of Durham,980.2,3250.91,1932.32,50.7,155.87,7171.71,0,
-University of East Anglia,3725.3,6531.16,2106.1,157.44,0,21432.36,0,
-University of East London,463.16,1614.72,862.12,0,0,3467.36,0,
-University of Edinburgh,15269.46,28400.341,10762.492,660.018,560.689,89478.181,149,Edinbgh
-University of Essex,929.7,2363.2,1047.3,59.8,0,6082,0,
-University of Exeter,3763.671,7162.793,2420.898,80.51,195.128,22217.477,14,Exeter
-University of Glasgow,8328.992,19987.658,8506.506,219.814,253.03,53303.626,58,Glasgow
-University of Greenwich,390.25,1890.7,2126.3,166.85,85.9,3451.7,0,
-University of Hertfordshire,754.3,2779.48,1754.14,274.53,47.55,5796.68,0,
-University of Huddersfield,244.88,904.84,980.48,109.2,80.6,1884.36,0,
-University of Hull,858.13,3168,1505.04,23.98,54.85,6600.52,0,
-University of Kent,1668.69,3934.939,1572.902,112.642,73.827,10609.699,0,
-University of Leeds,5535.55,16119.855,6124.775,350.63,284.19,38262.055,20,Leeds
-University of Leicester,4189.42,8650.63,3432.39,193.95,343.61,25408.31,0,
-University of Lincoln,1097.46,2396.64,973.58,121.6,30.72,6786.48,0,
-University of Liverpool,5334.902,14571.638,7464.036,463.424,210,35911.246,24,L'pool
-University of Manchester,12110.211,25182.893,10856.11,790.614,501.172,73623.737,61,Manch
-University of Northampton,99.16,376.66,1005.96,395.96,262.26,773.3,0,
-University of Northumbria at Newcastle,1005.97,2988.52,2145.14,179.49,30.88,7012.4,0,
-University of Nottingham,9082.036,25496.873,11184.568,938.904,710.619,61825.017,0,
-University of Oxford,23278.505,31029.111,6250.618,129.661,143.105,124143.131,585,Oxford
-University of Plymouth,2128.015,5044.41,2979.36,204.985,108.23,13556.47,0,
-University of Portsmouth,799.16,2562.42,1537.89,248.48,52.05,5759.06,0,
-University of Reading,3207.77,8206.025,3897.455,256.365,127.385,21037.105,0,
-University of Salford,512.83,2813.47,2960.3,171.55,171.85,4864.79,0,
-University of Sheffield,7766.696,16991.154,5946.065,766.481,77.604,48057.938,16,Sheffield
-University of South Wales,215.36,369.5,891.14,184,0,1230.94,0,
-University of Southampton,5325.631,12672.209,6685.659,453.636,501.865,33974.733,0,
-University of St Andrews,2618.705,4659.94,2214.035,142.05,30.27,15134.76,12,StAndw
-University of Stirling,1646.88,3936,928.44,128.68,0,10523.52,0,
-University of Strathclyde,1637.51,4921.35,1782.98,146.99,141.17,11471.39,0,
-University of Sunderland,248.46,939.72,1107,164.82,0,1933.56,0,
-University of Surrey,2775.44,4630.52,931.74,60,62.3,15732.28,0,
-University of Sussex,3707.337,4257.531,1107.492,85.437,243.203,19086.879,29,Sussex
-University of the Highlands and Islands,62.4,235.56,208,14.04,0,485.16,0,
-"University of the West of England, Bristol",716.32,3310.32,1800.6,102.76,0,6175.6,0,
-University of the West of Scotland,209.3,629.2,377,0,84.5,1466.4,0,
-University of Ulster,2245.285,7447.93,2756.595,190.6,184.59,16429.07,0,
-University of Warwick,4359.627,7139.986,2471.904,70.771,107.712,24578.494,20,Warwick
-University of Westminster,613.58,1828.33,1020.05,134.12,133.92,4282.65,0,
-University of Winchester,23.8,259.25,402.05,164.9,0,354.45,0,
-University of Wolverhampton,525.84,1627.6,901.44,25.04,50.08,3730.96,0,
-University of Worcester,183.31,1072.17,1295.94,693.91,184.67,1805.41,0,
-University of York,3411.228,6509.073,2174.967,79.11,26.622,20153.985,28,York
-Writtle College,0,266.64,400.4,159.28,53.68,266.64,0,
-York St John University,61.9,371.25,450.45,140,26.4,618.85,0,
+Category,Nstaff,N4,N3,N2,N1,N0,REFtot,Wellcome,shortname
+Aberystwyth University,70.21,989.961,3700.067,2000.985,84.252,245.735,7659.911,0,
+Anglia Ruskin University,32.25,213.43,1864.38,922.345,67.52,157.325,2718.1,0,
+Aston University,56.8,1840.32,3419.36,369.2,0,51.12,10780.64,0,
+Bangor University,51.8,1451.1,2649.22,938.7,77.28,63.7,8453.62,0,
+Birkbeck College,49.55,1871.635,2145.665,768.465,125.355,43.88,9632.205,12,Birkbeck
+Birmingham City University,12.1,24.2,642.51,370.26,99.22,73.81,739.31,0,
+Bournemouth University,34.4,482.8,1523.36,1221.98,158.36,53.5,3454.56,0,
+Brunel University London,83.5,1113.55,3463.95,3002.81,720.25,49.44,7918.15,0,
+Buckinghamshire New University,7.1,22.01,244.24,244.24,132.77,66.74,332.28,0,
+Canterbury Christ Church University,26.4,165.66,1115.42,1271.1,87.82,0,1778.06,0,
+Cardiff Metropolitan University,12,133.2,800.4,266.4,0,0,1333.2,0,
+Cardiff University,282.28,8886.851,15225.827,3702.209,242.117,170.996,50773.231,44,Cardiff
+City University London,95.6,1399.24,5345.6,2235.2,406.92,173.04,10942.56,0,
+Coventry University,31.6,494.48,1691.84,836.48,137.2,0,3669.76,0,
+Cranfield University,26.3,126.24,1364.97,1088.82,49.97,0,1869.93,0,
+De Montfort University,31.4,251.2,1234.02,1460.1,166.42,28.26,2238.82,0,
+Edge Hill University,23.3,320.23,833.67,978.5,197.6,0,2114.59,0,
+Edinburgh Napier University,22.2,313.02,1305.36,548.34,0,53.28,2557.44,0,
+Glasgow Caledonian University,44.3,881.57,2768.75,704.37,26.58,48.73,6295.03,0,
+Glyndŵr University,9.4,19.74,100.58,539.56,280.12,0,179.54,0,
+Goldsmiths' College,33.3,609.39,1794.87,809.19,29.97,86.58,4232.43,0,
+Harper Adams University,17,117.3,804.1,778.6,0,0,1273.3,0,
+Heriot-Watt University,22.1,235.49,821.84,1050.18,76.03,26.46,1763.8,0,
+Imperial College London,532.66,16474.013,27183.92,8659.657,615.569,332.841,93079.972,162,Imperial
+Institute of Cancer Research,103.09,3635.828,5359.133,1196.586,27.636,89.817,19902.445,24,CancerRes
+Keele University,80.08,1509.118,4278.112,1968.014,199.98,52.776,10314.584,0,
+King's College London,660.28,18085.628,37148.2,9671.903,470.307,651.962,109490.712,113,KCL
+Kingston University,27.22,324.466,1536.142,716.284,121,24.108,2834.006,0,
+Lancaster University,86.1,2301.25,4629.31,1556.73,90.16,32.55,13834.31,0,
+Leeds Beckett University,34.6,53.66,682.2,1423.22,1154.02,146.9,896.84,0,
+Liverpool Hope University,10.8,25.92,333.72,617.76,102.6,0,437.4,0,
+Liverpool John Moores University,44.2,604.67,1934.81,1727.77,121.7,31.05,4353.49,0,
+Liverpool School of Tropical Medicine,35.2,643.22,1878.14,936.28,40.66,21.7,4451.02,30,LivSchTropical
+London Metropolitan University,11,160.6,536.8,348.7,53.9,0,1179.2,0,
+London School of Hygiene & Tropical Medicine,313.66,6191.772,15448.028,8953.932,592.838,179.43,40215.116,78,LSHTM
+London South Bank University,24.4,165.36,1134.38,972.38,167.88,0,1795.82,0,
+Manchester Metropolitan University,61.4,564.88,3229.64,2106.02,128.94,110.52,5489.16,0,
+Middlesex University,27.9,249.43,1374.19,1090.2,52.5,23.68,2371.91,0,
+Newcastle University,300.93,6757.979,15809.05,6926.168,446.542,153.261,42840.966,45,Ncl
+Newman University,3,NA,NA,NA,NA,NA,NA,0,
+Nottingham Trent University,45.6,981.08,2261.26,1258.8,28.34,30.52,6185.58,0,
+Open University,17,375.7,924.8,374,25.5,0,2427.6,0,
+Oxford Brookes University,50.5,626.22,2343.27,1909.32,140.59,30.6,4848.15,0,
+Queen Margaret University Edinburgh,14.2,56.58,439.5,843.84,80.08,0,665.82,0,
+Queen Mary University of London,220.31,6166.871,12848.76,2810.097,86.498,118.774,37516.244,20,QMUL
+Queen's University Belfast,213.53,3629.491,10885.331,6567.408,106.85,163.92,25403.295,13,QUB
+Robert Gordon University,13.5,162,611.55,540,36.45,0,1259.55,0,
+Roehampton University,24.4,368.76,1255.72,755.04,60.48,0,2730.76,0,
+Royal Agricultural University,12,51.6,75.6,511.2,408,153.6,282,0,
+"Royal Holloway, University of London",47.25,1408.875,2496.375,759.75,60,0,8131.875,0,
+Royal Veterinary College,103.49,1800.726,5722.997,2504.458,320.819,0,12925.901,0,
+Sheffield Hallam University,38.95,519.935,1824.895,1459.69,90.48,0,3904.635,0,
+SRUC,57.37,1015.449,2742.286,1830.103,120.477,28.685,6804.082,0,
+"St.George's, University of London",55.67,1301.018,2661.345,1550.409,54.228,0,7865.417,0,
+Staffordshire University,13.8,33.12,262.2,789.36,229.08,66.24,394.68,0,
+Swansea University,73.9,2321.22,3872.73,1091.47,77.64,26.94,13157.61,0,
+Teesside University,16,120,787.2,620.8,72,0,1267.2,0,
+The University of West London,14.7,116.13,467.46,536.55,349.86,0,931.98,0,
+University College London,1150.02,29095.675,55294.264,27168.556,2435.464,1008.041,171676.964,320,UCL
+University of Aberdeen,232.22,4926.4,12329.104,5672.542,132.026,161.928,32034.704,18,Aberdeen
+University of Abertay Dundee,21.39,94.723,583.123,1036.003,248.351,176.8,962.015,0,
+University of Bath,78.7,2669.27,4141.7,975.43,54.2,29.4,14818.78,0,
+University of Bedfordshire,24.9,522.9,1279.86,520.41,119.52,47.31,3371.46,0,
+University of Birmingham,308.35,7199.15,17037.755,5885.99,331.025,381.08,45834.355,23,Bham
+University of Bolton,5.3,22.26,132.5,331.25,43.99,0,221.54,0,
+University of Bradford,44,1245.2,2631.2,497.2,0,26.4,7612,0,
+University of Brighton,22.5,297,1336.5,553.5,20.25,42.75,2524.5,0,
+University of Bristol,342.67,7535.888,17994.13,8033.9,413.994,289.088,48137.682,44,Bristol
+University of Cambridge,554.3,21386.389,25498.464,7667.314,355.728,522.105,111044.02,351,Cambridge
+University of Central Lancashire,67.16,579.292,3083.624,2493.616,455.392,104.076,5400.792,0,
+University of Chester,36.4,52.1,1379.68,1473.36,686.56,48.3,1588.08,0,
+University of Chichester,6,0,284.4,283.8,31.8,0,284.4,0,
+University of Cumbria,3,NA,NA,NA,NA,NA,NA,0,
+University of Derby,26.4,54.72,539.76,1455.6,537.12,52.8,758.64,0,
+University of Dundee,176.2,4705.45,9362.27,3140.85,329.94,81.49,28184.07,95,Dundee
+University of Durham,63.7,980.2,3250.91,1932.32,50.7,155.87,7171.71,0,
+University of East Anglia,125.2,3725.3,6531.16,2106.1,157.44,0,21432.36,0,
+University of East London,29.4,463.16,1614.72,862.12,0,0,3467.36,0,
+University of Edinburgh,556.53,15269.46,28400.341,10762.492,660.018,560.689,89478.181,149,Edinbgh
+University of Essex,44,929.7,2363.2,1047.3,59.8,0,6082,0,
+University of Exeter,136.23,3763.671,7162.793,2420.898,80.51,195.128,22217.477,14,Exeter
+University of Glasgow,372.96,8328.992,19987.658,8506.506,219.814,253.03,53303.626,58,Glasgow
+University of Greenwich,46.6,390.25,1890.7,2126.3,166.85,85.9,3451.7,0,
+University of Hertfordshire,56.1,754.3,2779.48,1754.14,274.53,47.55,5796.68,0,
+University of Huddersfield,23.2,244.88,904.84,980.48,109.2,80.6,1884.36,0,
+University of Hull,56.1,858.13,3168,1505.04,23.98,54.85,6600.52,0,
+University of Kent,73.63,1668.69,3934.939,1572.902,112.642,73.827,10609.699,0,
+University of Leeds,284.15,5535.55,16119.855,6124.775,350.63,284.19,38262.055,20,Leeds
+University of Leicester,168.1,4189.42,8650.63,3432.39,193.95,343.61,25408.31,0,
+University of Lincoln,46.2,1097.46,2396.64,973.58,121.6,30.72,6786.48,0,
+University of Liverpool,280.44,5334.902,14571.638,7464.036,463.424,210,35911.246,24,L'pool
+University of Manchester,494.41,12110.211,25182.893,10856.11,790.614,501.172,73623.737,61,Manch
+University of Northampton,21.4,99.16,376.66,1005.96,395.96,262.26,773.3,0,
+University of Northumbria at Newcastle,63.5,1005.97,2988.52,2145.14,179.49,30.88,7012.4,0,
+University of Nottingham,474.13,9082.036,25496.873,11184.568,938.904,710.619,61825.017,0,
+University of Oxford,608.31,23278.505,31029.111,6250.618,129.661,143.105,124143.131,585,Oxford
+University of Plymouth,104.65,2128.015,5044.41,2979.36,204.985,108.23,13556.47,0,
+University of Portsmouth,52,799.16,2562.42,1537.89,248.48,52.05,5759.06,0,
+University of Reading,156.95,3207.77,8206.025,3897.455,256.365,127.385,21037.105,0,
+University of Salford,66.3,512.83,2813.47,2960.3,171.55,171.85,4864.79,0,
+University of Sheffield,315.48,7766.696,16991.154,5946.065,766.481,77.604,48057.938,16,Sheffield
+University of South Wales,16.6,215.36,369.5,891.14,184,0,1230.94,0,
+University of Southampton,256.39,5325.631,12672.209,6685.659,453.636,501.865,33974.733,0,
+University of St Andrews,96.65,2618.705,4659.94,2214.035,142.05,30.27,15134.76,12,StAndw
+University of Stirling,66.4,1646.88,3936,928.44,128.68,0,10523.52,0,
+University of Strathclyde,86.3,1637.51,4921.35,1782.98,146.99,141.17,11471.39,0,
+University of Sunderland,24.6,248.46,939.72,1107,164.82,0,1933.56,0,
+University of Surrey,84.6,2775.44,4630.52,931.74,60,62.3,15732.28,0,
+University of Sussex,94.01,3707.337,4257.531,1107.492,85.437,243.203,19086.879,29,Sussex
+University of the Highlands and Islands,5.2,62.4,235.56,208,14.04,0,485.16,0,
+"University of the West of England, Bristol",59.3,716.32,3310.32,1800.6,102.76,0,6175.6,0,
+University of the West of Scotland,13,209.3,629.2,377,0,84.5,1466.4,0,
+University of Ulster,128.25,2245.285,7447.93,2756.595,190.6,184.59,16429.07,0,
+University of Warwick,141.5,4359.627,7139.986,2471.904,70.771,107.712,24578.494,20,Warwick
+University of Westminster,37.3,613.58,1828.33,1020.05,134.12,133.92,4282.65,0,
+University of Winchester,8.5,23.8,259.25,402.05,164.9,0,354.45,0,
+University of Wolverhampton,31.3,525.84,1627.6,901.44,25.04,50.08,3730.96,0,
+University of Worcester,34.3,183.31,1072.17,1295.94,693.91,184.67,1805.41,0,
+University of York,122.01,3411.228,6509.073,2174.967,79.11,26.622,20153.985,28,York
+Writtle College,8.8,0,266.64,400.4,159.28,53.68,266.64,0,
+York St John University,10.5,61.9,371.25,450.45,140,26.4,618.85,0,

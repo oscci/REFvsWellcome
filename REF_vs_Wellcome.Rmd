@@ -25,6 +25,7 @@ First we read in the REF data. Need to delete the top rows and save as .csv befo
 
 ```{r readref}
 require(tidyverse)
+require(knitr)
 myref <- read.csv('REF2014 Results.csv',stringsAsFactors=FALSE)
 shortref <- filter(myref,Profile=='Outputs')
 shortref <- filter(shortref,Main.panel=='A')
@@ -50,9 +51,9 @@ shortref<-mutate(shortref, N0 = Nstaff *unclassified)
 ```
 
 ```{r createagg}
-#Create a new table that sums across units of assessment
-mytab<-aggregate(shortref[,14:18], by=list(Category=shortref$Institution), FUN=sum)
-mytab$tot<-4*mytab$N4+mytab$N3 #I think this is how the total score was computed
+#Create a new table that sums across units of assessment: updated to include Nstaff
+mytab<-aggregate(shortref[,c(8,14:18)], by=list(Category=shortref$Institution), FUN=sum)
+mytab$REFtot<-4*mytab$N4+mytab$N3 #I think this is how the total score was computed
 #ie only 3* and 4* count and 4* counts four times as much as 3*
 write_csv(mytab,'reftab.csv')
 #This table has institutions x ref scores
@@ -60,10 +61,10 @@ write_csv(mytab,'reftab.csv')
 
 ```{r readreftab}
 #added Wellcome funding by hand to reftab and renamed to reftab2 before reading it in.
-welltab<-read_csv('reftab2.csv')
-welltab<-filter(welltab,Wellcome>0) #ignore those with no Wellcome funding
+welltablong<-read_csv('reftab2.csv')
+welltab<-filter(welltablong,Wellcome>0) #ignore those with no Wellcome funding
 #We will turn values into logs to make manageable
-x<-log(welltab$tot)
+x<-log(welltab$REFtot)
 y<-log(welltab$Wellcome)
 reg1 <- lm(y~x) 
 summary(reg1)
@@ -76,4 +77,30 @@ mypos<-sample(1:4,myrow,replace=TRUE)
 plot(x,y,xlab='log REF',ylab='log Wellcome',xlim=c(8,13),ylim=c(2,7))
      text(x,y,labels=welltab$shortname,cex=0.6,pos=mypos)
 abline(reg1,col=2)
+
+sortedwell <- welltablong[order(welltablong$REFtot),] 
+
+nowell<-filter(sortedwell,REFtot>10000,Wellcome==0)
+```
+
+
+# Look at places with no Wellcome funding
+Are any high on REF?
+Take 10000 as REF score as cutoff. Only two Wellcome funded places are lower than this: Liverpool School of Tropical Medicine, and Birkbeck.
+Here are the places with higher REF ratings but not featuring on Wellcome map.
+`r kable(nowell[,c(1,8)])`
+
+
+# Look at relation to N staff
+
+```{r nstaff}
+x1<-log(welltab$Nstaff)
+y<-log(welltab$Wellcome)
+reg2 <- lm(y~x1) 
+plot(x1,y,xlab='Nstaff',ylab='Wellcome',xlim=c(3,7.5),ylim=c(2,7))
+     text(x1,y,labels=welltab$shortname,cex=0.6,pos=mypos)
+
+abline(reg2,col=2)
+cor(welltab[,c(2,8,9)])
+
 ```
